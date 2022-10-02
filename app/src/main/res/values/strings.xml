@@ -2,4 +2,6 @@
     <string name="app_name">DatingHub</string>
     <string name="welcome_to_my_dating_hub">Welcome to my dating hub!</string>
     <string name="username">Manali Biswas</string>
+    <string name="username2">Add second user</string>
+    <string name="add_images">Add date images here as memories</string>
 </resources>
